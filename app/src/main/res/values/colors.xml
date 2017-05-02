@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBrightCell">#f0d9b5</color>
+    <color name="colorDarkCell">#b58863</color>
+    <color name="colorCellWithOpportunityToFigure">#9693966c</color>
+    <color name="colorCellFigureIsIn">#c8cdd25d</color>
+    <color name="colorCellNumber" >#333</color>
+    <color name="colorFinishCell" >#c8e24262</color>
+    <color name="colorStartCell" >#c865e242</color>
+</resources>
